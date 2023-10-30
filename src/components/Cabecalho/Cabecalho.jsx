@@ -6,6 +6,10 @@ export default function Cabecalho() {
     <nav>
       <Link href="/">HOME</Link>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <Link href="/form">FORM</Link>
+>>>>>>> daa331fb3d5ece25c7374a58fab336eb4e51fec8
       <Link href="/git-users">USERS</Link>
       <Link href="/add-prod">ADD-PROD</Link>
 =======
